@@ -26,7 +26,7 @@ const App = () => {
   }
 
   useEffect(() => {
-    searchMovies('Wolf of Wall Street')
+    searchMovies('Batman')
   }, [])
 
   return (
